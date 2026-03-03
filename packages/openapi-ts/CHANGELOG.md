@@ -1,5 +1,20 @@
 # @hey-api/openapi-ts
 
+## 0.93.2
+
+### Patch Changes
+
+- **output**: fix: avoid double sanitizing leading character ([#3448](https://github.com/hey-api/openapi-ts/pull/3448)) ([`c50f7bc`](https://github.com/hey-api/openapi-ts/commit/c50f7bcf5676f2783a412288d243aeaeabd9f8bd)) by [@mrlubos](https://github.com/mrlubos)
+
+- **internal**: log symbol meta if name is falsy ([#3448](https://github.com/hey-api/openapi-ts/pull/3448)) ([`c50f7bc`](https://github.com/hey-api/openapi-ts/commit/c50f7bcf5676f2783a412288d243aeaeabd9f8bd)) by [@mrlubos](https://github.com/mrlubos)
+
+- **client**: fix: change serializer types from `any` to `unknown` ([#3471](https://github.com/hey-api/openapi-ts/pull/3471)) ([`ad11be2`](https://github.com/hey-api/openapi-ts/commit/ad11be241c494d23930ce8f76e57eb7afa631c67)) by [@copilot-swe-agent](https://github.com/apps/copilot-swe-agent)
+
+### Updated Dependencies:
+
+- @hey-api/codegen-core@0.7.1
+- @hey-api/shared@0.2.2
+
 ## 0.93.1
 
 ### Patch Changes

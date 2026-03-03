@@ -1,5 +1,13 @@
 # @hey-api/shared
 
+## 0.2.2
+
+### Patch Changes
+
+### Updated Dependencies:
+
+- @hey-api/codegen-core@0.7.1
+
 ## 0.2.1
 
 ### Patch Changes
